@@ -21,7 +21,7 @@ In this project, we aim to help Olist gain better insights into their e-commerce
 11. Which product categories have the highest revenue on Olist, and how can the company increase revenue across different categories?
 12. What Geolocation has high customer density?
 
-By answering these questions, we aim to help Olist managers and stakeholders understand the e-commerce landscape in Brazil and identify opportunities for growth and optimization of the platform.
+By answering these questions, we aim to help Olist managers and stakeholders understand the e-commerce landscape in Brazil and recommend opportunities for growth and optimization of the platform.
 
 <img align="center" alt="coding" width="2000" src="https://labsnews.com/en/wp-content/uploads/sites/6/2019/10/Olist-1280x720.jpg">
 
