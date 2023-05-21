@@ -2,7 +2,7 @@
 
 ## Exploration, Insight generation and Visualization of E-commerce sales data
 
-1. Olist Data Analysis.ipynb - the file that contains the exploratory data analysis
+1. Olist Data Analysis.ipynb - the file that contains the exploratory data analysis using Python
 2. Sales Analysis Dashboad.pdf - the file that contains the power bi vizualization
 
 Olist is a Brazilian e-commerce platform that connects small and medium-sized businesses to customers across Brazil. The platform operates as a marketplace, where merchants can list their products and services and customers can browse and purchase them online. The Olist sales dataset is a collection of anonymized data about orders placed on the Olist from September 2016 to September 2018.
